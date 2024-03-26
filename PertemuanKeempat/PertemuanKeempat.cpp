@@ -18,6 +18,11 @@ int penjumlahan(int a, int b)
 {
     return a + b;
 }
+int pengurangan(int a, int b)
+{
+
+}
+
 
 int main()
 {
@@ -63,7 +68,7 @@ int main()
         cout << "Pilihan tidak ada" << endl;
         break;
     
-    } while (/* condition */)
+    } while (/* condition !=5 */)
 }
 
 
